@@ -12,10 +12,13 @@
 ![](https://komarev.com/ghpvc/?username=Antojoel)
 - 🔭 I’m currently working on Understanding a machine 
 - 🌱 I’m currently learning Bachelors in Engineering Specialized in Computer Science
-- 👯 I’m looking to collaborate on any computer program
-- 💬 Ask me about Programming
+- 👯 can we colloborate ping me 👇
+- 💬 ask me about computer finance ideas music etc...
 - 📫 ping me on instagram @its.anto.here
-- ⚡ Fun fact: I use a minimal lap 
+- ⚡ Fun fact: I use a the most minimal lap lmao
+- support me: 👇
+-  ₿ bitcoin address: 1799wd1HzddAeRnLoebxZCjv6QUgNZyUK4
+-  ₹ upi id : 9865438020@ybl
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Antojoel&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Antojoel)
