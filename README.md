@@ -17,7 +17,8 @@
 - 📫 ping me on instagram @its.anto.here
 - ⚡ Fun fact: I use a minimal lap 
 
-![Yash's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Antojoel&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Antojoel&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Antojoel)
 
 <p align="center">  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/privateinvestocat.jpg" height="160px" width="160px"> <img src="https://octodex.github.com/images/heisencat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/skatetocat.png" height="160px" width="160px"></p>
 
