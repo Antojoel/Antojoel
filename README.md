@@ -5,10 +5,9 @@
 
 ### Hi there I'm Anto 👋
 
-[![twitter badge](https://img.shields.io/badge/twitter-AntoJoel-0077b5?style=social&logo=twitter)](https://twitter.com/Antojoel8020)
+[![twitter badge](https://img.shields.io/badge/twitter-AntoJoel8020-0077b5?style=social&logo=twitter)](https://twitter.com/Antojoel8020)
 [![linkedin badge](https://img.shields.io/badge/linkedin-AntoJoel-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/antojoelv/)
-[![instagram badge](https://img.shields.io/badge/instagram-AntoJoel-0077b5?style=social&logo=instagram)](https://www.instagram.com/its.anto.here/)
-[![website badge](https://img.shields.io/badge/website-AntoJoel.github.io/blog-1f425f?style=social)](https://yashk2000.github.io/blog) 
+[![instagram badge](https://img.shields.io/badge/instagram-its.anto.here-0077b5?style=social&logo=instagram)](https://www.instagram.com/its.anto.here/)
 
 ![](https://komarev.com/ghpvc/?username=Antojoel)
 - 🔭 I’m currently working on Understanding a machine 
