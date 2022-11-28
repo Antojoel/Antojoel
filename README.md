@@ -18,10 +18,13 @@
 - 📫 ping me on instagram @its.anto.here
 - ⚡ Fun fact: I use a the most minimal lap lmao
 - support me: 👇
--<br>
+<br>
+<br>
 <a href="https://www.buymeacoffee.com/antojoel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Antojoel&hide_border=true)
+## 📊 GitHub Stats
+            
+ ![](https://github-readme-stats.vercel.app/api?username=Antojoel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>  | ![](https://github-readme-streak-stats.herokuapp.com/?user=lahiruroot&theme=dark&hide_border=true)<br/>
 <!-- 
 <p align="center">  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/privateinvestocat.jpg" height="160px" width="160px"> <img src="https://octodex.github.com/images/heisencat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/skatetocat.png" height="160px" width="160px"></p> -->
 
