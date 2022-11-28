@@ -18,6 +18,7 @@
 - 📫 ping me on instagram @its.anto.here
 - ⚡ Fun fact: I use a the most minimal lap lmao
 - support me: 👇
+-<br>
 <a href="https://www.buymeacoffee.com/antojoel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Antojoel&hide_border=true)
